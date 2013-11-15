@@ -1,0 +1,9 @@
+.swp
+.idea
+.DS_Store
+atlassian-ide-plugin.xml
+*.egg-info
+*.patch
+
+#----F#@% FLEX----#
+flex/applications/wf_tester/src/wf_lifecycle/com/webfilings/lifecycle/export/suite_export.as

@@ -1,0 +1,44 @@
+subl ~/.zsh_prompt
+subl ~/.zshrc
+source
+cd ../../richapps
+ls
+rapr
+git add richapps/build/bower.json
+git reset HEAD richapps/build/bower.json
+git branch
+git remote 
+git remote --help
+git remote remove rich
+git remote remove jim
+git status
+git remote
+$VIRTUAL_ENV
+echo $VIRTUAL_ENV
+source ~/.zshrc 
+source ~/.zshrc
+sky
+richapps
+tabname
+echo -ne "\e]1;$VIRTUAL_ENV\a"
+clear
+subl ~/.bash_aliases
+subl ~/.bash_profile
+echo "\e]1;$1\a"
+cd
+python
+: 1384545813:0;source ~/.zshrc
+: 1384545822:0;richapps
+: 1384545856:0;subl ~/.zsh_prompt
+: 1384545903:0;source ~/.zshrc
+: 1384546012:0;clear
+: 1384546731:0;cd ~
+: 1384546770:0;cd workspaces/crgk/
+: 1384546781:0;git clone dotfiles git@github.com:crgk/dotfiles.git
+: 1384546788:0;git clone git@github.com:crgk/dotfiles.git
+: 1384546794:0;ls
+: 1384546799:0;cd dotfiles
+: 1384546800:0;ls
+: 1384546822:0;touch README.md
+: 1384546848:0;cp ~/.bash* ~/.zsh* /Users/chadknight/.git-completion.bash /Users/chadknight/.git/ /Users/chadknight/.gitconfig /Users/chadknight/.gitignore_chadknight /Users/chadknight/.gitignore_global 
+: 1384546857:0;cp ~/.bash* ~/.zsh* /Users/chadknight/.git-completion.bash /Users/chadknight/.git/ /Users/chadknight/.gitconfig /Users/chadknight/.gitignore_chadknight /Users/chadknight/.gitignore_global ./
